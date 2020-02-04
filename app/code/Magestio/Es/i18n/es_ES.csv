@@ -1565,6 +1565,7 @@ Qty Ordered,Cantidad pedida
 Change shipping method.,Cambiar el método de envío.
 No authorized items or allowed shipping methods,No hay elementos autorizados o métodos de envío permitidos
 Carrier,Transportista
+Carriers,Transportistas
 Are you sure?,¿Seguro que quiere continuar?
 Create Shipping Label,Crear etiqueta de envío
 Enabled when authorized items require a new shipment.,Activa cuando requieran autorizado un nuevo envío.
@@ -5962,6 +5963,7 @@ Link,Enlace
 Purchases,Compras
 Unlimited,Ilimitado
 Low stock,Existencia baja
+Low Stock,Existencia baja
 Products Ordered,Artículos pedidos
 Most Viewed,Más vistos
 Show Report,Mostrar informe
@@ -6000,6 +6002,7 @@ Total Shipping,Gastos de envío
 Order Taxes Report Grouped by Tax Rate,Informe de impuestos - Pedidos por tasas de impuestos
 Tax Amount,Importe de impuestos
 Abandoned carts,Carritos abandonados
+Abandoned Carts,Carritos abandonados
 Applied Coupon,Cupón aplicado
 Customers,Clientes
 Items in Cart,Artículos en el carrito
@@ -7174,7 +7177,7 @@ Deployment configuration file is not writable.,Archivo de configuración de impl
 Please enter an encryption key.,"Por favor, introduzca una clave de cifrado."
 The encryption key has been changed.,Se cambió la clave de cifrado.
 This is your new encryption key: %1. Be sure to write it down and take good care of it!,Esta es su nueva clave de cifrado: %1. ¡Asegúrese de escribirlo y cuidar de él!
-Manage Encryption Key,Administrar Encryption Key
+Manage Encryption Key,Administrar clave de cifrado
 Filterable (with results),Filtrable (con resultados)
 Filterable (no results),Filtrable (sin resultados)
 Use in Layered Navigation,Usar en navegación por capas
