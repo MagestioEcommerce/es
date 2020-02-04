@@ -119,7 +119,6 @@ Select,Seleccione
 Quantity,Cantidad
 Shipping Address,Dirección de envío
 Update Changes,Actualizar los cambios
-Shopping Cart,Carrito de compras
 Are you sure you want to delete all items from shopping cart?,¿Realmente quiere eliminar todos los artículos del carrito de compras?
 Clear Shopping Cart,Vaciar el Cesta
 Products in Comparison List,Artículos en la lista de comparación
@@ -3796,7 +3795,6 @@ Items Quantity,Cantidad de artículos
 Total shopping cart items quantity %1 %2:,Cantidad total de articulos en carrito de compras %1 %2:
 Virtual Only,Virtual únicamente
 Shopping cart %1 only virtual items,Carrito de compras %1 sólo articulos virtuales
-Shopping Cart,Cesta
 The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:,La lista de deseos no está vacía y abandonada %1 %2 días y %3 de estas condiciones coinciden:
 The root wish list condition should have a days value of 1 or greater.,La condición de lista de deseos de raíz debe tener un valor de días de 1 o mayor.
 Product Attributes,Atributos del artículo
@@ -10021,6 +10019,7 @@ Subtotal Only,Solo Subtotal
 (Incl. Tax),(Incl. impuesto)
 Order Total Excl. Tax,Total sin incluir impuestos
 Order Total Incl. Tax,Total incluyendo impuestos
+Shopping cart,Carrito
 Shopping Cart,Carrito
 Invalid method: %1,Método inválido: %1
 My Cart (1 item),Mi carrito (1 producto)
