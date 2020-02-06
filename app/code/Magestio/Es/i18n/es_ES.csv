@@ -3715,7 +3715,6 @@ Add New Rule,Añadir nueva regla
 Are you sure you want to match this rule now?,¿Está seguro de que desea aplicar esta regla ahora?
 No more than %1 customers may receive the reminder email after this action.,No más de %1 clientes pueden recibir el email de recordatorio después de esta acción.
 Run Now,Ejecutar ahora
-Save and Continue Edit,Save and Continue Edit
 Edit Rule '%1',Editar regla '%1'
 New Rule,Nueva regla
 Email Reminder Rule,Regla de correo electrónico recordatorio
@@ -8747,7 +8746,6 @@ Create Order,Crear pedido
 Save Customer,Guardar cliente
 Are you sure you want to revoke the customer's tokens?,¿Está seguro que desea revocar el token del cliente?
 New Customer,Nuevo cliente
-Save and Continue Edit,Guardar y continuar editar
 Shopping Cart from %1,Carrito de la compra de %1
 Newsletter,Boletín de noticias
 Newsletter Information,Boletín Información
@@ -8950,7 +8948,7 @@ Account Created:,Cuenta creada:
 Account Created on (%1):,Cuenta creada en (%1):
 Account Created in:,Cuenta creada en:
 Customer Group:,Grupo de cliente:
-Default Billing Address,Dirección de facturación por defecto
+Default Billing Address,Dirección de facturación predeterminada
 Sales Statistics,Estadísticas de Ventas
 Average Sale,Venta promedio
 Default Shipping Address,Dirección de envío predeterminada
