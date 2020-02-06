@@ -307,7 +307,7 @@ The invoice has been voided.,La factura ha sido anulada.
 Invoice voiding error,Error al anular la factura
 %1 order(s) cannot be canceled.,No se puede cancelar %1 pedidos.
 You cannot cancel the order(s).,No podemos cancelar este/estos pedido(s).
-We canceled %1 order(s).,Hemos cancelado %1 orden(es).
+We canceled %1 order(s).,Hemos cancelado %1 pedido(s).
 %1 order(s) were not put on hold.,%1 pedidos no fueron puestos en espera.
 No order(s) were put on hold.,Ningún pedido fue puesto en suspenso.
 You have put %1 order(s) on hold.,Ha puesto %1 pedidos en espera.
@@ -12506,3 +12506,4 @@ Company Status Change Email Recipient,Correo electrónico para cambio de estado 
 Quote item id is not received.,No se recibió el id del artículo cotizado.
 Quote item is not loaded.,El artículo cotizado no está cargado.
 We can't add the item to your cart.,No pudimos añadir el artículo a su carrito de compras.
+Incorrect reCAPTCHA,ReCAPTCHA incorrecto
