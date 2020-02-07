@@ -2569,7 +2569,6 @@ Compilation from source:,Compilación de fuente:
 Wrong deploy strategy type: %1,Implementar mal tipo de estrategia: %1
 some message,algún mensaje
 Exception,Excepción
-ID,Núm. Pepperi
 Attributes,Atributos
 Attribute Code,Código de atributo
 Attribute Label,Etiqueta de atributo
@@ -4891,7 +4890,6 @@ Send Quote Email Copy Method,Enviar presupuesto en copia (método)
 Checkout with quote,Pagar
 View quotes of subordinate users,Ver presupuestos de subordinados
 Allow Quotes,Permitir presupuestos
-ID,Número de Identificación (ID)
 Created Date,Fecha de creación
 Submitted By,Enviado por
 Last Updated,Última Actualización
@@ -12507,3 +12505,5 @@ Quote item id is not received.,No se recibió el id del artículo cotizado.
 Quote item is not loaded.,El artículo cotizado no está cargado.
 We can't add the item to your cart.,No pudimos añadir el artículo a su carrito de compras.
 Incorrect reCAPTCHA,ReCAPTCHA incorrecto
+Start date, Fecha de inicio
+Country of Manufacture,País de fabricación
