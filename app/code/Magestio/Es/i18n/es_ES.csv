@@ -187,7 +187,7 @@ Total Refunded,Total reembolsado
 Total Due,Total debido
 Edit,Editar
 Are you sure you want to send an order email to customer?,¿Realmente quiere enviar al cliente un mensaje electrónico de pedido?
-"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Esto creará un reembolso sin conexión. ' ' Para crear un reembolso en línea, abrir una factura y crear abono para él. ¿Desea continuar?"
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Esto creará un reembolso sin conexión. Para crear un reembolso en línea, abrir una factura y crear abono para él. ¿Desea continuar?"
 Are you sure you want to void the payment?,¿Realmente quiere anular el pago?
 Hold,Retener
 Unhold,Reactivar
@@ -5558,7 +5558,7 @@ Cart Item Attribute,Atributo de artículo del carrito de compras
 Product Attribute,Atributos del artículo
 If an item is %1 in the cart with %2 of these conditions true:,Si un artículo es %s en la cesta con %s de estas condiciones verdaderas:
 total quantity,Suma total
-If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:,Si %s %s %s para una subselección de artículos en la cesta coincidiendo %s de estas condiciones:
+If %1 %2 %3 for a subselection of items in cart matching %4 of these conditions:,Si %1 %2 %3 para una subselección de artículos en la cesta coincidiendo %4 de estas condiciones:
 Percent of product price discount,Porcentaje de descuento en el precio del artículo
 Fixed amount discount,Monto fijo de descuento
 Fixed amount discount for whole cart,Descuento de cantidad fija para el carro completo
