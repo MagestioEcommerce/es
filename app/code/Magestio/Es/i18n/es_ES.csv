@@ -2225,7 +2225,7 @@ Merchant Account ID,ID de cuenta Merchant
 Enable PayPal Credit,Habilitar crédito de PayPal
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
 You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-<a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout le permite brindarles a los clientes acceso a financiación a través de PayPal Credit&#174; - sin costo adicional para usted. 
+<a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout le permite brindarles a los clientes acceso a financiación a través de PayPal Credit&#174; - sin costo adicional para usted.
 Se le paga por adelantado, a pesar de que los clientes tienen más tiempo para pagar. Un botón de pago preintegrado permite a los clientes pagar rápidamente con PayPal Credit&#174;.
 <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank""> Más información </a>"
 Sort Order PayPal Credit,Organizar orden de Paypal Credit
@@ -3247,17 +3247,17 @@ General Settings,Configuración general
 "Delete ""${ $.$data.name }""","Eliminar ""${ $.$data.name }"""
 Catalog and Tier Price,Catálogo y precios del segmento
 Group or Catalog,Grupo o catálogo
-"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in 
+"You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in
 Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront.
-Otherwise, the categories and products you're configuring in shared catalogs will 
-not be restricted to customers.","Debe habilitar la característica de</a> <a href=""%1"" data-role=""notification-dialog"">Catálogo compartido en 
+Otherwise, the categories and products you're configuring in shared catalogs will
+not be restricted to customers.","Debe habilitar la característica de</a> <a href=""%1"" data-role=""notification-dialog"">Catálogo compartido en
 tiendas-> configuración-> características de B2B para usar los catálogos compartidos en el escaparate.
-lo contrario, las categorías y productos que está configurando en catálogos compartidos voluntad 
+lo contrario, las categorías y productos que está configurando en catálogos compartidos voluntad
 no es restringido a los clientes."
-"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features 
-to use the shared catalogs in the storefront. Otherwise, the categories and products you're 
+"You must enable the shared catalog feature in Stores -> Configuration -> B2B Features
+to use the shared catalogs in the storefront. Otherwise, the categories and products you're
 configuring in shared catalogs will not be restricted to customers.","Debe habilitar la característica de Catálogo compartido en tiendas-> configuración-> características de B2B para usar los catálogos compartidos en el escaparate.
-lo contrario, las categorías y productos que está configurando en catálogos compartidos voluntad 
+lo contrario, las categorías y productos que está configurando en catálogos compartidos voluntad
 no es restringido a los clientes."
 Edit Configurations,Editar las configuraciones
 Products in Catalog,Productos en Catalogo
@@ -3909,7 +3909,7 @@ Elasticsearch HTTP Password,Contraseña Elasticsearch HTTP
 Elasticsearch Server Timeout,Elasticsearch Server Timeout
 Test Connection,Probar conexión
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","No esta configurada la nueva ID de aplicación Relic, no se puede continuar con el reporte de Eventos Cron"
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
 information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","La nueva integración Relic requiere al agente newrelic-php5 que no está instalado. Más información sobre cómo instalar el agente está disponible <a target=""_blank"" href=""%1""> aquí</a>."
 New Relic Reporting Section,Nueva sección de reporte Relic
 New Relic Reporting,Nuevos informes Relic
@@ -6278,8 +6278,8 @@ No such entity with %fieldName = %fieldValue,No existe la entidad con %fieldName
 Could not save company credit limit,No se pudo guardar el límite de crédito de la empresa
 Please enter a valid %1/%2 currency rate.,Por favor ingrese una tasa de cambio válida de %1/%2.
 Invoice created for %1,Factura creada para %1
-"The selected credit currency is not valid. 
-Customers will not be able to place orders until you update the credit currency.","La moneda de crédito seleccionada no es válida. 
+"The selected credit currency is not valid.
+Customers will not be able to place orders until you update the credit currency.","La moneda de crédito seleccionada no es válida.
 Los clientes no podrán realizar pedidos hasta que actualice la moneda de crédito."
 Refund to Company Credit,Reembolsar a crédito de empresa
 "An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","No se puede emitir una factura por cantidades parciales para este pedido. Para continuar, cambie la cantidad especificada a la cantidad total."
@@ -7178,9 +7178,9 @@ Filterable (no results),Filtrable (sin resultados)
 Use in Layered Navigation,Usar en navegación por capas
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Solo puede ser usado con los inputs del catálogo Si/No, Dropdown, Selección Múltiple y Precio"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-<br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+<br>Price is not compatible with <b>'Filterable (no results)'</b> option -
 it will make no affect on Price filter.","Sólo se puede utilizar con el tipo de entrada del catálogo Sí/No, Dropdown, Selección múltiple y Precio.
-<br>Precio no es compatible con <b>'Filterable (sin resultados)'</b> opción - 
+<br>Precio no es compatible con <b>'Filterable (sin resultados)'</b> opción -
 esto no afectará al filtro de precios."
 Use in Search Results Layered Navigation,Utilizar en la navegación por capas de los resultados de búsqueda
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Solo puede ser usado con los inputs del catálogo Si/No, Dropdown, Selección Múltiple y Precio."
@@ -9864,7 +9864,7 @@ Industry,Tipo de negocio
 <strong>Get more insights from Magento Business Intelligence</strong>,<strong>Obtén mas ideas con Magento Business Intelligence</strong>
 "Magento Business Intelligence provides you with a simple and clear path to
 becoming more data driven.</br> Learn more about <a target=""_blank""
-href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence le proporciona un camino sencillo y claro para 
+href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence le proporciona un camino sencillo y claro para
 convertirse en más datos.</br> Más información sobre <a target=""_blank""
 href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a>tiers."
 Auto Parts,Piezas de automóvil
@@ -10501,7 +10501,7 @@ Invalid attribute value. Rejected date&time and Rejected Reason can be changed o
 Could not save company: %1,No se pudo guardar la empresa: %1
 Cannot delete structure with id %1,No se puede eliminar la estructura con id %1
 Could not create team,No se pudo crear el equipo
-This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.,"Este equipo tiene usuarios secundarios o equipos alineados a él y no se puede eliminar. Por favor, vuelva a alinear los usuarios secundarios 
+This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.,"Este equipo tiene usuarios secundarios o equipos alineados a él y no se puede eliminar. Por favor, vuelva a alinear los usuarios secundarios
 o equipos primero."
 Could not update team,No se pudo actualizar el equipo
 Cannot delete team with id %1,No se puede eliminar el equipo con id %1
@@ -11111,7 +11111,7 @@ Error processing payment. Please try again later.,"Error al procesar el pago, po
 You cannot void a verification transaction.,No se puede anular una operación de comprobación.
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
 You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-<a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout le permite brindarles a los clientes acceso a financiamiento a través de PayPal Credit&#174; - sin costo adicional para usted. 
+<a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout le permite brindarles a los clientes acceso a financiamiento a través de PayPal Credit&#174; - sin costo adicional para usted.
 Se le paga por adelantado, a pesar de que los clientes tienen más tiempo para pagar. Un botón de pago preintegrado permite a los clientes pagar rápidamente con PayPal Credit&#174;.
 <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank""> Más información </a>"
 "<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
@@ -11120,10 +11120,10 @@ from PayPal Credit&#174;. Your customers have more time to pay, while you get pa
 Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank""> ¿Por qué financiar publicidad?</a><br/>
-<strong> Aumente sus ventas cuando publicite financiación. </strong><br/> PayPal ayuda a convertir navegadores en compradores con financiación 
-de PayPal Credit&#174; Sus clientes tienen más tiempo para pagar, mientras que se les paga por adelantado, sin costo adicional para usted. 
-Use los anuncios de banner gratuitos de PayPal que le permiten anunciar PayPal Credit&#174; Financiamiento como una opción de pago cuando sus clientes pagan con PayPal. 
-Se ha demostrado que el Programa de publicidad de PayPal genera compras adicionales y aumenta el tamaño promedio de compra del consumidor en un 15% 
+<strong> Aumente sus ventas cuando publicite financiación. </strong><br/> PayPal ayuda a convertir navegadores en compradores con financiación
+de PayPal Credit&#174; Sus clientes tienen más tiempo para pagar, mientras que se les paga por adelantado, sin costo adicional para usted.
+Use los anuncios de banner gratuitos de PayPal que le permiten anunciar PayPal Credit&#174; Financiamiento como una opción de pago cuando sus clientes pagan con PayPal.
+Se ha demostrado que el Programa de publicidad de PayPal genera compras adicionales y aumenta el tamaño promedio de compra del consumidor en un 15%
 o más. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank""> Ver detalles </a>."
 We can't contact the PayPal gateway.,No podemos establecer contacto con el gateway de PayPal.
 The ordering amount of %1 is pending approval on the payment gateway.,La cantidad de pedidos de %1 está pendiente de aprobación en la pasarela de pago.
@@ -11276,8 +11276,8 @@ Invalid backend model specified: ' .,Invalid backend model specified: ' .
 We can't find the role for the user you wanted.,No se puede encontrar el role para el usuario deseado.
 Front-end development workflow,Flujo de trabajo de desarrollo front-end
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","La opción predeterminada es 86400, si no se configura. Para actualizarla instantáneamente, borre el caché de salida de bloques HTML."
-"Future Update in this time range already exists. 
-Select a different range to add a new Future Update.","La actualización futura en este rango de tiempo ya existe. 
+"Future Update in this time range already exists.
+Select a different range to add a new Future Update.","La actualización futura en este rango de tiempo ya existe.
 Seleccione un rango diferente para agregar una nueva actualización futura."
 %1 is required parameter.,%1 es parámetro necesario.
 Invalid action type %1.,Acción no válida tipo %1.
@@ -11766,14 +11766,14 @@ deliver customer-centric campaigns that beat your results over and over again. B
 including abandoned cart, abandoned browse, product replenishment, and many more.</span></li>
 <li><span>Built-in solution for transactional emails.</span></li>
 <li><span>Telephone support and advice from marketing experts included.</span></li>
-</ul>","<p>Desbloquee un nivel incomparable de conocimiento y control de su marketing de comercio electrónico con 
-dotmailer Email Marketing Automation. Incluido con Magento 2.2.2 para una fácil configuración, dotmailer 
-asegura que el recorrido de cada cliente sea capturado, segmentado y personalizado, permitiendole que 
+</ul>","<p>Desbloquee un nivel incomparable de conocimiento y control de su marketing de comercio electrónico con
+dotmailer Email Marketing Automation. Incluido con Magento 2.2.2 para una fácil configuración, dotmailer
+asegura que el recorrido de cada cliente sea capturado, segmentado y personalizado, permitiendole que
 ofrezca campañas centradas en el cliente que superan sus resultados una y otra vez. Beneficios incluidos:
 </p>
 <ul>
 <li><span>Sin compromiso 14 días de prueba.</span></li>
-<li><span>Campañas de automatización usando los datos en vivo de su tienda Magento que generan 
+<li><span>Campañas de automatización usando los datos en vivo de su tienda Magento que generan
 ingresos, incluyendo carro abandonado, navegación abandonada, reposición de productos y muchos más.</span></li>
 <li><span>Solución incorporada para correos electrónicos transaccionales.</span></li>
 <li><span>Soporte telefónico y asesoramiento de expertos en marketing incluidos.</span></li>
@@ -12444,7 +12444,7 @@ An error occurred while subscription process.,Ha ocurrido un error en el proceso
 "This service provides a dynamic suite of reports with rich insights about your business.
 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
 ""Go to Advanced Reporting"" link. </br> For more information, see our
-<a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.","Este servicio provee un paquete dinámico de informes con información valiosa acerca de tu negocio. 
+<a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.","Este servicio provee un paquete dinámico de informes con información valiosa acerca de tu negocio.
 Podrás tener acceso a tus informes de forma segura a través de un panel de control personalizado externo al panel de administración pulsando en el enlace ""Ir a informes avanzados"".</br> Para más información, vea nuestros <a href=""https://magento.com/legal/terms/privacy"">términos y condiciones</a>."
 "Magento Business Intelligence provides you with a simple and clear path to
 becoming more data driven.</br> Learn more about <a target=""_blank""
@@ -12508,3 +12508,44 @@ Incorrect reCAPTCHA,ReCAPTCHA incorrecto
 Start date, Fecha de inicio
 Country of Manufacture,País de fabricación
 "More Information","Más información"
+"Bank Transfer Payment","Transferencia"
+"Redsys Payment Gateway","TPV Redsys"
+"Cash On Delivery","Contrareembolso"
+"Payment by cards or by PayPal account","Paypal"
+"Your Checkout Progress", "Proceso de pago"
+"Card Verification Number", "CVV"
+"Items %1-%2 of %3","%3 artículos"
+"Regular Price", "Precio normal"
+"Shop By","Filtro"
+"Remove item", "Eliminar"
+"Proceed to Checkout", "Ir al proceso de pago"
+"Grand Total", "Total estimado"
+"Review by", "Por"
+"View Order", "Ver"
+"Update Shopping Cart", "Actualizar carrito"
+"Print Order", "Imprimir"
+"Move to Wish List","Mover"
+"Copy to Wish List","Copiar"
+"Move Selected to Wish List", "Mover seleccionados"
+"Copy Selected to Wish List", "Copiar seleccionados"
+"%1 items in wish list", "%1 artículos"
+"1 item in wish list", "1 artículo"
+"Continue to Shipping Information", "Seleccionar método de envío"
+"Compare Products","Comparar"
+"Compare","Comparar"
+"Contact Us","Contacto"
+"Sign In","Registro"
+"Create an Account","Crear una cuenta"
+"Search...","Buscar..."
+"Newsletter","Boletín informativo"
+"as low as","Desde"
+"As low as","Desde"
+"Click to see more products from %1","Haz click para ver más productos de %1"
+"Brand","Marca"
+"View and edit cart","Ver cesta"
+"Available soon","Disponible próximamente"
+"Contact Info","Información de contacto"
+"Contact us","Contáctenos"
+"Allow remote shopping assistance","Permitir asistencia remota de compra"
+"Sign Up for Our Newsletter","Suscribirme a la newsletter"
+"Add to Cart","Añadir"
